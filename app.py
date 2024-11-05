@@ -15,7 +15,7 @@ def home():
         "endpoints for imdb, by Sebastian Eriksson ": {
 
             "/series": "GET: Returns all the series.",
-            "/top-rated-series": "GET: Returns the 3 top-rated series.",
+            "/top-rated-series": "GET: Returns the 3 top rated series.",
             "/series-episodes": "GET: Returns all the episodes of all the series.",
 
             "/most-oscar-wins": "GET: Returns the actors with most oscar wins.",
