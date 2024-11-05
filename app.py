@@ -21,7 +21,7 @@ def home():
             "/most-oscar-wins": "GET: Returns the actors with most oscar wins.",
             "/actors": "GET: Returns all the actors.",
 
-            "/users": "GET: Returns all the users"
+            "/users": "GET: Returns all the users data "
         }
     })
 
